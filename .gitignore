@@ -2,14 +2,12 @@
 __pycache__/
 *.pyc
 backend/.venv/
-backend/myenv/
 backend/data/
 .env
 
 # Node
 node_modules/
 frontend/dist/
-frontend/_cra_backup/
 
 # OS / editor
 .DS_Store
